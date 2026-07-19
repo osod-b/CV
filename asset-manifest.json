@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/:/osod-b.github.io/CV/static/css/main.259dda5e.css",
-    "main.js": "/:/osod-b.github.io/CV/static/js/main.c59ae864.js",
-    "static/js/453.2ca86739.chunk.js": "/:/osod-b.github.io/CV/static/js/453.2ca86739.chunk.js",
-    "static/media/profile.png": "/:/osod-b.github.io/CV/static/media/profile.201b3e5a24a0367ffc53.png",
-    "static/media/InstrumentSerif-Italic.ttf": "/:/osod-b.github.io/CV/static/media/InstrumentSerif-Italic.d59311502b48027b802b.ttf",
-    "static/media/InstrumentSerif-Regular.ttf": "/:/osod-b.github.io/CV/static/media/InstrumentSerif-Regular.5b7bae350adc2a2de079.ttf",
-    "index.html": "/:/osod-b.github.io/CV/index.html",
-    "main.259dda5e.css.map": "/:/osod-b.github.io/CV/static/css/main.259dda5e.css.map",
-    "main.c59ae864.js.map": "/:/osod-b.github.io/CV/static/js/main.c59ae864.js.map",
-    "453.2ca86739.chunk.js.map": "/:/osod-b.github.io/CV/static/js/453.2ca86739.chunk.js.map"
+    "main.css": "/CV/static/css/main.43040a3d.css",
+    "main.js": "/CV/static/js/main.5c7fd907.js",
+    "static/js/453.2ca86739.chunk.js": "/CV/static/js/453.2ca86739.chunk.js",
+    "static/media/profile.png": "/CV/static/media/profile.201b3e5a24a0367ffc53.png",
+    "static/media/InstrumentSerif-Italic.ttf": "/CV/static/media/InstrumentSerif-Italic.d59311502b48027b802b.ttf",
+    "static/media/InstrumentSerif-Regular.ttf": "/CV/static/media/InstrumentSerif-Regular.5b7bae350adc2a2de079.ttf",
+    "index.html": "/CV/index.html",
+    "main.43040a3d.css.map": "/CV/static/css/main.43040a3d.css.map",
+    "main.5c7fd907.js.map": "/CV/static/js/main.5c7fd907.js.map",
+    "453.2ca86739.chunk.js.map": "/CV/static/js/453.2ca86739.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.259dda5e.css",
-    "static/js/main.c59ae864.js"
+    "static/css/main.43040a3d.css",
+    "static/js/main.5c7fd907.js"
   ]
 }
