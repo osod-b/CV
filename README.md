@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Link
 
-(https://osod-b.github.io/CV/)[Link]
+[Link](https://osod-b.github.io/CV/)
 
 
 ## Available Scripts
