@@ -1,3 +1,3 @@
-# Curriculum Vitae
+# 📋 Curriculum Vitae
 
-[Click here](https://osod-b.github.io/CV/)
+🔗 [Click here](https://osod-b.github.io/CV/)
